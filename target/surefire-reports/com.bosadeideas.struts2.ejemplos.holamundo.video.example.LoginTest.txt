@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.bosadeideas.struts2.ejemplos.holamundo.video.example.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.336 sec <<< FAILURE! - in com.bosadeideas.struts2.ejemplos.holamundo.video.example.LoginTest
+testLoginSubmitInput(com.bosadeideas.struts2.ejemplos.holamundo.video.example.LoginTest)  Time elapsed: 0.148 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<[User Name is required].> but was:<[Nombre de Usuario es requerido].>
+	at com.bosadeideas.struts2.ejemplos.holamundo.video.example.LoginTest.testLoginSubmitInput(LoginTest.java:55)
+
